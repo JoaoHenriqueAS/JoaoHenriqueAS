@@ -51,7 +51,7 @@
 ---
 
 ## 🚀 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquejoao/)
+<a href="https://www.linkedin.com/in/henriquejoao/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 <!--
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform&logoColor=5C4EE5)
@@ -65,6 +65,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoHenriqueAS&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquejoao/)
 **JoaoHenriqueAS/JoaoHenriqueAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
